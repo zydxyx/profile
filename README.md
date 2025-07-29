@@ -6,6 +6,5 @@ github仓库主页美化
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=zydxyx&theme=tokyonight)
 #### repo卡片
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=zydxyx&repo=profile&amp;theme=dark)
-#### 社交统计
-![github统计](https://stats.justsong.cn/api/github?username=zydxyx&amp;theme=dark&amp;lang=zh-CN)
+
 
