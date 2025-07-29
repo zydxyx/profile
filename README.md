@@ -1,6 +1,6 @@
 # profile
 github仓库主页美化
-
+[![ZYDXYX's GitHub stats](https://github-readme-stats.vercel.app/api?username=zydxyx)](https://github.com/zydxyx/github-readme-stats)
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=zydxyx&amp;show_icons=true&amp;theme=cobalt)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=zydxyx&theme=tokyonight)
