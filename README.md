@@ -7,4 +7,12 @@ github仓库主页美化
 
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=zydxyx&repo=profile&amp;theme=dark)
 
-![Visitor Count](https://profile-counter.glitch.me/zydxyxg99999000/count.svg)
+![github统计](https://stats.justsong.cn/api/github?username=zydxyx&amp;theme=dark&amp;lang=zh-CN)
+
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=539218314&amp;theme=dark)
+
+![Visitor Count](https://profile-counter.glitch.me/bilibili2025001/count.svg)
+
+![tip](https://badgen.net/badge/php/8.1/orange?icon=php)
+
+![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)
